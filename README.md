@@ -1,3 +1,3 @@
 # Treehouse Project
 
-This is a project to ...etc. 
+This is a project to ...etc.
